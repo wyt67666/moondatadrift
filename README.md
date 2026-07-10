@@ -2,6 +2,10 @@
 
 Project identifier: `moondatadrift`
 
+Repository:
+- GitHub: https://github.com/wyt67666/moondatadrift
+- GitLink: <to be added>
+
 MoonDataDrift is a MoonBit library and CLI for comparing a baseline table with a current table and surfacing likely data drift.
 
 It focuses on practical checks that are useful in ML monitoring:
@@ -22,6 +26,8 @@ This repository is meant for the 2026 MoonBit open-source competition. The scope
 ## Current scope
 
 The current version works on in-memory tables and ships with a runnable demo report.
+
+Sample data lives in `data/`, and the sample report outline is documented in `examples/demo-report.md`.
 
 ### What it does
 
@@ -60,3 +66,4 @@ Apache-2.0
 - MoonBit is the primary implementation language.
 - The repo includes a clear README, a license, a runnable demo, and tests.
 - The project direction is aligned with monitoring and MLOps, while remaining small enough to maintain cleanly.
+- The source notes and competition checklist are in `docs/`.
