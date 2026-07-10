@@ -9,4 +9,4 @@
 - 提交历史保持连续演进
 - 提供来源说明与项目说明
 - 已准备申报书 Markdown
-- 后续补充 GitLink 仓库链接与必要说明
+- GitLink 仓库链接已补充并可公开访问：https://gitlink.org.cn/bla6677/moondatadrift

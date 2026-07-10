@@ -1,9 +1,9 @@
 # Repository Links
 
 - GitHub: https://github.com/wyt67666/moondatadrift
-- GitLink: <to be added>
+- GitLink: https://gitlink.org.cn/bla6677/moondatadrift
 
 ## Notes
 
-The GitHub repository is the primary review target while GitLink is being prepared.
-Once the GitLink mirror is ready, the link above should be replaced with the public project URL.
+The GitHub repository is the primary review target.
+The GitLink repository is now live and mirrors the current submission state.

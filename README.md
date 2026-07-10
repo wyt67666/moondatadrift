@@ -4,7 +4,7 @@ Project identifier: `moondatadrift`
 
 Repository:
 - GitHub: https://github.com/wyt67666/moondatadrift
-- GitLink: <to be added>
+- GitLink: https://gitlink.org.cn/bla6677/moondatadrift
 
 MoonDataDrift is a MoonBit library and CLI for comparing a baseline table with a current table and surfacing likely data drift.
 
