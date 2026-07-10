@@ -1,0 +1,7 @@
+import {
+  "33046/moondatadrift",
+}
+
+options(
+  "is-main": true,
+)
